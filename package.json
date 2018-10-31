@@ -1,0 +1,22 @@
+{
+  "name": "stringcalculator",
+  "version": "1.0.0",
+  "main": "StringCalculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salomehuldis/StringCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salomehuldis/StringCalculator/issues"
+  },
+  "homepage": "https://github.com/salomehuldis/StringCalculator#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
